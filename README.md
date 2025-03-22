@@ -25,7 +25,7 @@ The portfolio is designed to be responsive, user-friendly, and visually engaging
 
 ## Hosted Portfolio Link
 
-You can view the live portfolio [here](https://your-portfolio-link.com).
+You can view the live portfolio [here](https://portfolio-umber-nine-87.vercel.app/).
 
 ## Technologies Used
 
