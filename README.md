@@ -30,7 +30,7 @@ You can view the live portfolio [here](https://portfolio-umber-nine-87.vercel.ap
 ## Technologies Used
 
 - HTML, CSS, JavaScript
-- Reac
+- React
 - Node
 - Vercel for hosting
 
