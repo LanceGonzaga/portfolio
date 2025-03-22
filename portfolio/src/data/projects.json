@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Semantic Html",
+    "imageSrc": "projects/Html.png",
+    "description": "This is a semantic project made using HTML and Css",
+    "skills": ["HTML", "Css"],
+    "demo": "https://html5-eight-ecru.vercel.app/",
+    "source": "https://github.com/LanceGonzaga/Html5.git"
+  },
+  {
+    "title": "My Interactive To-Do list",
+    "imageSrc": "projects/todo.png",
+    "description": "This is a project made to create To-Do List.",
+    "skills": ["Html", "JavaScript", "Css"],
+    "demo": "https://interactive-to-do-list-blush.vercel.app/",
+    "source": "https://github.com/LanceGonzaga/Interactive-To-Do-List.git"
+  },
+  {
+    "title": "My Weather App",
+    "imageSrc": "projects/myweather.png",
+    "description": "This is a weather web app that can tell the weather on the city requested",
+    "skills": ["React", "Html", "Node", "Vite", "JavaScript"],
+    "demo": "https://my-weather-app-v1.vercel.app/",
+    "source": "https://github.com/LanceGonzaga/Weather-app.git"
+  }
+]
